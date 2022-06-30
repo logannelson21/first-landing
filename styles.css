@@ -1,4 +1,21 @@
-.top {
+.header {
     display: flex;
-    align-items: flex-end;
+    justify-content: space-between;
+    padding: 16px;
+    flex: auto;
+    background-color: #1f2937;
+}
+
+.img {
+    height: 80px;
+    width: 80px;
+    display: flex;
+}
+
+.button {
+    display: flex;
+}
+
+.container {
+    display: flex;
 }
