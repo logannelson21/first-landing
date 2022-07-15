@@ -102,5 +102,22 @@ h1 {
 
 /* Content */
 
+.box-content {
+    align-items: center;
+    color: black;
+}
 
+.content-info {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.content-info img {
+    width: 200px;
+    height: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 18px;
+    margin: 5px 20px 0px 20px;
+}
 
