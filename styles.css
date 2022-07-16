@@ -160,7 +160,33 @@ h1 {
 
 /* Sign Up */
 
+.sign-up {
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    border-color: none;
+}
+ 
+.sign-text p {
+    color: #FFF;
+    margin: 5px 30px 30px 50px;
+}
 
+h3 {
+    color: #fff;
+    font-family: 'lato' , sans-serif;
+    padding: 0;
+    margin: 5px 30px 30px 50px;
+}
+
+.sing-button button {
+    color: #fff;
+    font-family: 'lato' , sans-serif;
+    
+}
 
 
 
