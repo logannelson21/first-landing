@@ -182,10 +182,28 @@ h3 {
     margin: 5px 30px 30px 50px;
 }
 
-.sing-button button {
+.sign-button button {
     color: #fff;
     font-family: 'lato' , sans-serif;
-    
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: #3882f6;
+    font-size: 20px;
+    padding: 5px 25px;
+}
+
+/* Footer */
+
+.footer p {
+    background-color: #1f2937;
+    color: #fff;
+    font-family: 'lato' , sans-serif;
+    height: 80px;
+    padding-top: 40px;
+}
+
+.footer {
+    text-align: center;
 }
 
 
